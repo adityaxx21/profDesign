@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+    },
+    {
+      "name": "Orders",
+      "icon": "menu-icon tf-icons bx bx-cart-alt",
+      "slug": "orders",
+      "submenu": [
+        {
+          "url": "orders/product",
+          "name": "Product Menu",
+          "slug": "product"
+        }
+      ]
+    }
+  ]
+}
