@@ -46,7 +46,7 @@ php artisan serve
 - Dashboard
 - Orders
 
-## Fiter Writted 🎁
+## Feature Writted 🎁
 
 Authentication :
 
